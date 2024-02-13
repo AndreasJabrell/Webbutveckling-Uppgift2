@@ -1,0 +1,8 @@
+Servlets\AttendanceServlet.class
+Servlets\HomeServlet.class
+Servlets\CourseServlet.class
+org\Uppgift2\JAXRSConfiguration.class
+Servlets\NewStudentServlet.class
+Servlets\StudentServlet.class
+Servlets\NewCourse.class
+org\Uppgift2\resources\JavaEE8Resource.class
